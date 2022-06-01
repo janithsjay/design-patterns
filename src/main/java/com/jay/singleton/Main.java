@@ -1,4 +1,4 @@
 package com.jay.singleton;
 
-public class Main s{
+public class Main {
 }
