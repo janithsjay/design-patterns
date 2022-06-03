@@ -2,7 +2,7 @@ package com.jay.design_patterns.gof.creational.singleton;
 
 public class BasicEagerSingleton {
 
-    // TODO :: this is eagerly initialized at compile time prior to access it but this is thread safe
+    // TODO :: this is eagerly initialized at runtime prior to access it but this is thread safe
 
     /*
     let's make the constructor private,
